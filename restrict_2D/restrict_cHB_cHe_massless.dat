@@ -14,7 +14,6 @@ Block SMINPUTS
 ## INFORMATION FOR MASS
 ###################################
 Block MASS 
-Block MASS 
 #    1 1.000000e-99 # MD 
 #    2 1.000000e-99 # MU 
 #    3 1.000000e-99 # MS 
@@ -129,7 +128,7 @@ Block FRBlock
    27 0 # cHGtil
    28 0 # cHW
    29 0 # cHWtil
-   30 0 # cHB
+   30 9.999999e-01 # cHB
    31 0 # cHBtil
    32 0 # cHWB
    33 0 # cHWBtil
@@ -146,13 +145,13 @@ Block FRBlock
    44 0 # cdBAbs
    45 0 # cHl1
    46 0 # cHl3
-   47 0 # cHe
+   47 9.999999e-01 # cHe
    48 0 # cHq1
-   49 9.999999e-01 # cHq3
+   49 0 # cHq3
    50 0 # cHu
    51 0 # cHd
    52 0 # cHudAbs
-   53 9.999999e-01 # cll
+   53 0 # cll
    54 0 # cll1
    55 0 # cqq1
    56 0 # cqq11
