@@ -13,5 +13,4 @@ which is the values for each Wilson coefficient.
 
 ## folders
 
-  * ```old``` contains the restrict files working with the first version of SEMEFTSim
-  * ```v3``` contains the restrict files working with the version *v3* of SMEFTSim
+  * ```2D``` contains the restrict files working with two operator for VBS 
