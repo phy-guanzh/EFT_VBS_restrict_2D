@@ -13,4 +13,4 @@ which is the values for each Wilson coefficient.
 
 ## folders
 
-  * ```2D``` contains the restrict files working with two operator for VBS 
+  * ```restrict_2D``` contains the restrict files working with two operator for VBS 
